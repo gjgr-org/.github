@@ -8,7 +8,7 @@
 
 <div align="center">
 
-_Language:_ [中文](https://github.com/gjgr-org) | **[English](https://github.com/gjgr-org/.github)**
+_Language:_ [中文](https://github.com/gjgr-org) | **[English](https://github.com/gjgr-org/.github/blob/main/profile/readme_en.md)**
 
 🗺️ [View the Roadmap](https://github.com/orgs/ietf-tools/projects/9) | 📔 [Github Website](https://www.github.com)
 
